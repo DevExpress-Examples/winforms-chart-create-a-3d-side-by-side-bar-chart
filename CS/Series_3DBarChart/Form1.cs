@@ -54,6 +54,5 @@ namespace Series_3DBarChart {
             BarChart3D.Dock = DockStyle.Fill;
             this.Controls.Add(BarChart3D);
         }
-
     }
 }
