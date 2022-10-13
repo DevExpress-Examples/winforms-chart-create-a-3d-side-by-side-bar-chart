@@ -5,7 +5,7 @@
 
 # Chart for WinForms - How to create a 3D Side-by-Side Bar chart
 
-The following example demonstrates how to create a [3D Side-by-Side Bar](https://docs.devexpress.com/WindowsForms/3421/controls-and-libraries/chart-control/series-views/3d-series-views/bar-series-views/side-by-side-bar-chart?p=netframework) chart at runtime.
+The following example demonstrates how to create a [3D Side-by-Side Bar](https://docs.devexpress.com/WindowsForms/3421/controls-and-libraries/chart-control/series-views/3d-series-views/bar-series-views/side-by-side-bar-chart?p=netframework) chart at runtime:
 
 ![3D Side-by-Side Bar chart](images/3dchart.png)
 
